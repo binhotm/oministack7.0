@@ -2,3 +2,4 @@
 yarn.lock
 uploads/
 yarn-error.log
+/src/index.js
